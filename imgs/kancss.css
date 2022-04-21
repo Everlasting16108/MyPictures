@@ -1,0 +1,10 @@
+<style type="text/css">
+    #waifu #live2d {
+        height: 400px!important;
+        width: 400px!important;
+    }
+    #waifu-tips {
+        top: -60px;
+        /*display:none !important;隐藏对话框*/
+    }
+</style>
